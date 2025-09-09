@@ -1,0 +1,46 @@
+## Сборочные папки
+bin/
+obj/
+out/
+
+## Visual Studio файлы
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Rider и VS Code
+.idea/
+.vscode/
+*.code-workspace
+
+## Resharper / VS Cache
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+*.vs/
+*.vssscc
+*.vsp
+*.vspx
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Пакеты и зависимости
+*.dll
+*.exe
+*.pdb
+
+## Логи
+*.log
+
+## Системные
+.DS_Store
+Thumbs.db
